@@ -20,7 +20,7 @@ var arr_audio = [
 var arr_name = [
 "Bullet For My Valentine - Alone",
 "Rise Against - Saviour",
-"Rise Against - Hero Of Bar",
+"Rise Against - Hero Of War",
 "Flyleaf - Beautiful Bride",
 "30 Seconds To Mars - Hero",
 "Flyleaf - Cassie",
