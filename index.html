@@ -10,16 +10,29 @@
     <link rel="stylesheet" href="includes/index.css" media="screen">
   </head>
   <body>
-    <div style="text-align: center; font-size: 45px; margin-top: 15%;">
-        <a id="name" style="text-align: center; font-size: 45px; margin-top: 15%; cursor: pointer; border-bottom: none;" ></a>
+
+    <div id="album"></div>
+    <div id="list"><h2>List</h2></div>
+    <div id="list_block" open="false" style="position: absolute; margin-top: -10%; margin-left: 78%; width: 15%; background: #0B0B0A">
+    </div>
+
+
+    <div>
+    <div style="text-align: center; font-size: 35px; margin-top: 15%;" id="name_div">
+        <a id="name" style="text-align: center; font-size: 35px; margin-top: 15%; cursor: pointer; border-bottom: none;" ></a>
     </div>
     <div style="position:fixed; margin-left: 10000px;" id="audios">
         <audio src="http://dl.zaycev.net/86004/421474/rise_against_-_hero_of_war_(zaycev.net).mp3" preload="auto"></audio>
     </div>
-    <div style="width: 100px; margin: 0 auto;"><h3 id="play" style="text-align: center; cursor: pointer;" next="false">Play</h3></div>
+    <div style="width: 200px; margin: 0 auto;"><h3 id="play" style="text-align: center; cursor: pointer;" next="false">Play</h3></div>
+    </div>
     <div style="margin-top: 15%">Danik Tsyrkunov © 2014</div>
   </body>
 </html>
+
+
+
+
 
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
