@@ -58,7 +58,7 @@ $(function(){
 
     $("#play").click(function(){
         if (document.getElementById("play").getAttribute("next") == "false") {
-            document.getElementById("play").innerText = "Next Randon Song";
+            document.getElementById("play").innerText = "Next Random Song";
             document.getElementById("audios").style.marginLeft = "0px";
             document.getElementById("audios").style.position = "static";
             document.getElementById("play").setAttribute("next", "true");
@@ -131,6 +131,7 @@ function next(audio, index){
         document.getElementById("name").style.marginRight = "-400px";
 
         document.getElementById("album").style.backgroundImage = "url("+album[i]+")";
+        document.getElementById("album").style.backgroundRepeat =  "no-repeat";
         document.getElementById("album").style.backgroundSize = "100%";
         document.getElementById("album").style.marginLeft = "39%";
 
