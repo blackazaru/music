@@ -48,3 +48,8 @@ footer .ab-c a { padding: 0px; }
 #list{ position: absolute; margin-top: -14%; margin-left: 90%; display: none; }
 
 #album{ position: absolute; display: none; width: 44%; height:  88%; margin-left: 23%;  margin-top: -12%; z-index: -100; opacity:0.4;}
+
+#input{ width: 98%; }
+#name{text-shadow: 6px 6px 0px rgba(0,0,0,0.2); text-align: center; font-size: 35px; margin-top: 15%; cursor: pointer; border-bottom: none;}
+
+#name_div{text-align: center; font-size: 35px; margin-top: 15%;}
