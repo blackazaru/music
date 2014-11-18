@@ -57,8 +57,10 @@ window.onload = function(){
             });
 
             for(var i=0; i<arr_name.length; i++){
-                if (document.getElementById("song_"+i) !== null)
-                    document.getElementById("song_"+i).remove();
+                if (document.getElementById("song_" + i) !== null) {
+                    document.getElementById("song_" + i).remove();
+                    document.getElementById("song_pic_" + i).remove();
+                }
             }
 
             for(var i=0; i<arr_name.length; i++){
@@ -68,7 +70,15 @@ window.onload = function(){
                 iDiv.innerHTML = arr_name[i];
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
+                iDiv.style.height = '51px';
                 iDiv.setAttribute("onclick","next(a[0],"+i+")");
+                var picDiv = document.createElement('img');
+                picDiv.style.width = '50px';
+                picDiv.style.height = '50px';
+                picDiv.setAttribute("src", album[i]);
+                picDiv.style.float = "left";
+                picDiv.id = 'song_pic_'+i;
+                document.getElementById("list_block").appendChild(picDiv);
                 document.getElementById("list_block").appendChild(iDiv);
             }
         }else{
@@ -79,7 +89,8 @@ window.onload = function(){
             setTimeout(function(){
                 document.getElementById("input").remove();
                 for(var i=0; i<arr_name.length; i++){
-                       document.getElementById("song_"+i).remove();
+                    document.getElementById("song_"+i).remove();
+                    document.getElementById("song_pic_" + i).remove();
                 }
             },690);
         }
@@ -103,7 +114,12 @@ function next(audio, index){
     }, 700 );
 
     setTimeout(function(){
-        document.getElementById("name").innerText = arr_name[i];
+        if (arr_name[i].indexOf("(new) ") == -1) {
+            document.getElementById("name").innerText = arr_name[i];
+        }else{
+            var name_song = arr_name[i].replace("(new) ","");
+            document.getElementById("name").innerText = name_song;
+        }
         document.getElementById("name").style.marginRight = "-400px";
 
         document.getElementById("album").style.backgroundImage = "url("+album[i]+")";
@@ -132,35 +148,56 @@ function serch(query){
     if (query !== ""){
         for(var i=0; i<arr_name.length; i++){
             if (document.getElementById("song_"+i) !== null)
-                document.getElementById("song_"+i).remove();
+                if (document.getElementById("song_" + i) !== null) {
+                    document.getElementById("song_" + i).remove();
+                    document.getElementById("song_pic_" + i).remove();
+                }
         }
 
         for(var i = 0; i<arr_name.length; i++){
             if (arr_name[i].toUpperCase().indexOf(query.toUpperCase()) !== -1) {
                 var iDiv = document.createElement('div');
-                iDiv.id = 'song_' + i;
-                iDiv.className = 'song_' + i;
+                iDiv.id = 'song_'+i;
+                iDiv.className = 'song_'+i;
                 iDiv.innerHTML = arr_name[i];
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
-                iDiv.setAttribute("onclick", "next(a[0]," + i + ")");
+                iDiv.style.height = '51px';
+                iDiv.setAttribute("onclick","next(a[0],"+i+")");
+                var picDiv = document.createElement('img');
+                picDiv.style.width = '50px';
+                picDiv.style.height = '50px';
+                picDiv.setAttribute("src", album[i]);
+                picDiv.style.float = "left";
+                picDiv.id = 'song_pic_'+i;
+                document.getElementById("list_block").appendChild(picDiv);
                 document.getElementById("list_block").appendChild(iDiv);
             }
         }
     }else{
         for(var i=0; i<arr_name.length; i++){
-            if (document.getElementById("song_"+i) !== null)
-                document.getElementById("song_"+i).remove();
+            if (document.getElementById("song_" + i) !== null) {
+                document.getElementById("song_" + i).remove();
+                document.getElementById("song_pic_" + i).remove();
+            }
         }
         for(var i = 0; i<arr_name.length; i++){
-                var iDiv = document.createElement('div');
-                iDiv.id = 'song_' + i;
-                iDiv.className = 'song_' + i;
-                iDiv.innerHTML = arr_name[i];
-                iDiv.style.borderBottom = "1px solid";
-                iDiv.style.cursor = "pointer";
-                iDiv.setAttribute("onclick", "next(a[0]," + i + ")");
-                document.getElementById("list_block").appendChild(iDiv);
+            var iDiv = document.createElement('div');
+            iDiv.id = 'song_'+i;
+            iDiv.className = 'song_'+i;
+            iDiv.innerHTML = arr_name[i];
+            iDiv.style.borderBottom = "1px solid";
+            iDiv.style.cursor = "pointer";
+            iDiv.style.height = '51px';
+            iDiv.setAttribute("onclick","next(a[0],"+i+")");
+            var picDiv = document.createElement('img');
+            picDiv.style.width = '50px';
+            picDiv.style.height = '50px';
+            picDiv.setAttribute("src", album[i]);
+            picDiv.style.float = "left";
+            picDiv.id = 'song_pic_'+i;
+            document.getElementById("list_block").appendChild(picDiv);
+            document.getElementById("list_block").appendChild(iDiv);
         }
     }
 
