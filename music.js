@@ -47,7 +47,14 @@ var arr_audio = [
 "http://cs1277v4.vk.me/u764444/audios/eb2d83eac024.mp3",
 "http://cs5011v4.vk.me/u3296999/audios/bdef417e27dd.mp3",
 "http://cs1040v4.vk.me/u1846763/audios/e3a5e151f6c1.mp3",
-"http://cs536518v4.vk.me/u2742053/audios/ec083cc5559d.mp3"];
+"http://cs536518v4.vk.me/u2742053/audios/ec083cc5559d.mp3",
+"http://cs9-5v4.vk.me/p16/792602b3bd76aa.mp3",
+"http://cs9-6v4.vk.me/p7/61fbbf1ff99ca1.mp3",
+"http://cs9-3v4.vk.me/p1/98ed36ee97be94.mp3",
+"http://cs4701v4.vk.me/u6108945/audios/30fcea3495c6.mp3",
+"http://cs4997v4.vk.me/u2763964/audios/2333eb02f162.mp3",
+"http://cs4774v4.vk.me/u4842564/audios/fdbf20c85635.mp3",
+"http://cs1345v4.vk.me/u8903551/audios/f77a725ef329.mp3"];
 
 
 
@@ -97,7 +104,15 @@ var arr_name = [
 "Korn - No Way",
 "Godsmack - Love-Hate-Sex-Pain",
 "Godsmack - I Stand Alone",
-"Godsmack - 1000hp"];
+"Godsmack - 1000hp",
+
+"Bon Jovi – Always",
+"Bon Jovi – You Give Love a Bad Name",
+"Bon Jovi – Livin' On A Prayer",
+"Bon Jovi – Wanted Dead Or Alive",
+"Bon Jovi – Bad Medicine",
+"Bon Jovi – Runaway",
+"Bon Jovi – We Got It Going On"];
 
 var album = [
     "http://cdn.licklibrary.com////cdn.licklibrary.com/~/media/LL/Uploads/news/F/Fever.ashx",
@@ -147,5 +162,13 @@ var album = [
     "http://www.nuclearblast.de/static/articles/197/197193.png/1000x1000.png",
     "http://images.coveralia.com/audio/g/Godsmack-The_Oracle-Frontal.jpg?647",
     "http://images.coveralia.com/audio/g/Godsmack-Faceless-Frontal.jpg?220",
-    "http://www.guitarworld.com/files/imagecache/futureus_imagegallery_fullsize/gallery/Godsmack_1000hp_Album%20Cover%20Final.jpg"
+    "http://www.guitarworld.com/files/imagecache/futureus_imagegallery_fullsize/gallery/Godsmack_1000hp_Album%20Cover%20Final.jpg",
+
+    "http://vk.com/away.php?utf=1&to=https%3A%2F%2Freturntothe80s.files.wordpress.com%2F2010%2F09%2Fbon-jovi-greatest-hits.jpg",
+    "http://vk.com/away.php?utf=1&to=https%3A%2F%2Freturntothe80s.files.wordpress.com%2F2010%2F09%2Fbon-jovi-greatest-hits.jpg",
+    "http://vk.com/away.php?utf=1&to=https%3A%2F%2Freturntothe80s.files.wordpress.com%2F2010%2F09%2Fbon-jovi-greatest-hits.jpg",
+    "http://vk.com/away.php?utf=1&to=https%3A%2F%2Freturntothe80s.files.wordpress.com%2F2010%2F09%2Fbon-jovi-greatest-hits.jpg",
+    "http://vk.com/away.php?utf=1&to=https%3A%2F%2Freturntothe80s.files.wordpress.com%2F2010%2F09%2Fbon-jovi-greatest-hits.jpg",
+    "http://vk.com/away.php?utf=1&to=https%3A%2F%2Freturntothe80s.files.wordpress.com%2F2010%2F09%2Fbon-jovi-greatest-hits.jpg",
+    "http://vk.com/away.php?utf=1&to=http%3A%2F%2Fimages.coveralia.com%2Faudio%2Fb%2FBon_Jovi-Lost_Highway-Frontal.jpg%3F835"
 ]
