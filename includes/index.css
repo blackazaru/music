@@ -8,7 +8,7 @@ body { width: 100%; margin: 0 auto; font-family:'Lato',sans-serif; background: #
 
 #list:hover{cursor: pointer;}
 
-#list{ position: absolute; margin-top: -14%; margin-left: 90%; display: none; }
+#list{ position: absolute; margin-top: -2%; margin-left: 94%; display: none; }
 
 #album-mini{ display: none; width: 110px; height:  110px; float: left;}
 

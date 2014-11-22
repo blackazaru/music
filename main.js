@@ -11,7 +11,7 @@ $(function(){
             next(a[0],null);
         }
     });
-
+    list();
     $("#play").click(function(){
         if (document.getElementById("play").getAttribute("next") == "false") {
             changeButtonNext();
@@ -80,7 +80,7 @@ function list(){
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
                 iDiv.style.height = '51px';
-                iDiv.setAttribute("onclick","next(a[0],"+i+")");
+                iDiv.setAttribute("onclick","animationPanel()");
                 var picDiv = document.createElement('img');
                 picDiv.style.width = '50px';
                 picDiv.style.height = '50px';
@@ -147,7 +147,7 @@ function serch(query){
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
                 iDiv.style.height = '51px';
-                iDiv.setAttribute("onclick","next(a[0],"+i+")");
+                iDiv.setAttribute("onclick","animationPanel()");
                 var picDiv = document.createElement('img');
                 picDiv.style.width = '50px';
                 picDiv.style.height = '50px';
@@ -173,7 +173,7 @@ function serch(query){
             iDiv.style.borderBottom = "1px solid";
             iDiv.style.cursor = "pointer";
             iDiv.style.height = '51px';
-            iDiv.setAttribute("onclick","next(a[0],"+i+")");
+            iDiv.setAttribute("onclick","animationPanel()");
             var picDiv = document.createElement('img');
             picDiv.style.width = '50px';
             picDiv.style.height = '50px';
