@@ -2,11 +2,9 @@
  * Created by Danik Tsyrkunov on 02.11.2014.
  */
 
-
-
-
-
 var i = 0;
+
+
 $(function(){
     window.a = audiojs.createAll({
         trackEnded: function(){
@@ -16,25 +14,36 @@ $(function(){
 
     $("#play").click(function(){
         if (document.getElementById("play").getAttribute("next") == "false") {
-            document.getElementById("play").innerText = "Next Random Song";
-            document.getElementById("audios").style.marginLeft = "0px";
-            document.getElementById("audios").style.position = "static";
-            document.getElementById("play").setAttribute("next", "true");
-            document.getElementById("list").style.display = "block";
-            document.getElementById("album").style.display = "block";
+            changeButtonNext();
+            animationPanel();
+        } else {
+            animationPanel();
         }
-        next(a[0],null);
-
     });
 
-    $("#name").click(function(){
-        window.location.replace(arr_audio[i]);
-    });
 
 });
 
-window.onload = function(){
-     arr_name = sortBubble(arr_name);
+function changeButtonNext(){
+    document.getElementById("play").innerText = "Next Random Song";
+    document.getElementById("audios").style.marginLeft = "0px";
+    document.getElementById("audios").style.position = "static";
+    document.getElementById("play").setAttribute("next", "true");
+    document.getElementById("list").style.display = "block";
+    document.getElementById("album-mini").style.display = "block";
+}
+
+function animationPanel(){
+    hideMiniPanel();
+    next(a[0],null);
+    setDataMiniPanel();
+    setData(music[i].track, music[i].artist, music[i].album, music[i].cover);
+    showPanel();
+    setTimeout(hidePanel, 5000);
+    setTimeout(showMiniPanel, 5100);
+}
+
+function list(){
     $("#list").click(function(){
         if (document.getElementById("list_block").getAttribute("open") == "false") {
             document.getElementById("list_block").setAttribute("open", "true");
@@ -56,18 +65,18 @@ window.onload = function(){
                 }
             });
 
-            for(var i=0; i<arr_name.length; i++){
+            for(var i=0; i<music.length; i++){
                 if (document.getElementById("song_" + i) !== null) {
                     document.getElementById("song_" + i).remove();
                     document.getElementById("song_pic_" + i).remove();
                 }
             }
 
-            for(var i=0; i<arr_name.length; i++){
+            for(var i=0; i<music.length; i++){
                 var iDiv = document.createElement('div');
                 iDiv.id = 'song_'+i;
                 iDiv.className = 'song_'+i;
-                iDiv.innerHTML = arr_name[i];
+                iDiv.innerHTML = music[i].artist+" - "+music[i].track;
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
                 iDiv.style.height = '51px';
@@ -75,7 +84,7 @@ window.onload = function(){
                 var picDiv = document.createElement('img');
                 picDiv.style.width = '50px';
                 picDiv.style.height = '50px';
-                picDiv.setAttribute("src", album[i]);
+                picDiv.setAttribute("src", music[i].cover);
                 picDiv.style.float = "left";
                 picDiv.id = 'song_pic_'+i;
                 document.getElementById("list_block").appendChild(picDiv);
@@ -88,65 +97,40 @@ window.onload = function(){
             }, 700);
             setTimeout(function(){
                 document.getElementById("input").remove();
-                for(var i=0; i<arr_name.length; i++){
+                for(var i=0; i<music.length; i++){
                     document.getElementById("song_"+i).remove();
                     document.getElementById("song_pic_" + i).remove();
                 }
             },690);
         }
     });
-
 }
+
+window.onload = function(){
+    hidePanel();
+    //arr_name = sortBubble(arr_name);
+    $(".outer").css({display : "flex"});
+    setTimeout(function(){
+        document.getElementById("play").style.display = "block";
+        $("#play").animate({
+            opacity : 1
+        },500);
+    },1100)
+};
 
 function next(audio, index){
     if (index == null) {
-        i = Math.floor(Math.random() * arr_audio.length);
+        i = Math.floor(Math.random() * music.length);
     }else{
         i = index;
     }
-    $("#name").animate({
-        opacity: 0,
-        marginRight: "400px"
-    }, 700 );
-    $("#album").animate({
-        opacity: 0,
-        marginLeft: "10%"
-    }, 700 );
-
-    setTimeout(function(){
-        if (arr_name[i].indexOf("(new) ") == -1) {
-            document.getElementById("name").innerText = arr_name[i];
-        }else{
-            var name_song = arr_name[i].replace("(new) ","");
-            document.getElementById("name").innerText = name_song;
-        }
-        document.getElementById("name").style.marginRight = "-400px";
-
-        document.getElementById("album").style.backgroundImage = "url("+album[i]+")";
-        document.getElementById("album").style.backgroundRepeat =  "no-repeat";
-        document.getElementById("album").style.backgroundSize = "100%";
-        document.getElementById("album").style.marginLeft = "39%";
-
-        $("#name").animate({
-            opacity: 1,
-            marginRight: "0px"
-        }, 700 );
-
-        $("#album").animate({
-            opacity: 0.4,
-            marginLeft: "23%"
-        }, 700 );
-    },750);
-
-
-    audio.load(arr_audio[i]);
+    audio.load(music[i].song);
     audio.play();
-
 }
 
 function serch(query){
     if (query !== ""){
-        for(var i=0; i<arr_name.length; i++){
+        for(var i=0; i<music.length; i++){
             if (document.getElementById("song_"+i) !== null)
                 if (document.getElementById("song_" + i) !== null) {
                     document.getElementById("song_" + i).remove();
@@ -154,12 +138,12 @@ function serch(query){
                 }
         }
 
-        for(var i = 0; i<arr_name.length; i++){
-            if (arr_name[i].toUpperCase().indexOf(query.toUpperCase()) !== -1) {
+        for(var i = 0; i<music.length; i++){
+            if ((music[i].artist + " - "+ music[i].track).toUpperCase().indexOf(query.toUpperCase()) !== -1) {
                 var iDiv = document.createElement('div');
                 iDiv.id = 'song_'+i;
                 iDiv.className = 'song_'+i;
-                iDiv.innerHTML = arr_name[i];
+                iDiv.innerHTML = music[i].artist+" - "+music[i].track;
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
                 iDiv.style.height = '51px';
@@ -167,7 +151,7 @@ function serch(query){
                 var picDiv = document.createElement('img');
                 picDiv.style.width = '50px';
                 picDiv.style.height = '50px';
-                picDiv.setAttribute("src", album[i]);
+                picDiv.setAttribute("src", music[i].cover);
                 picDiv.style.float = "left";
                 picDiv.id = 'song_pic_'+i;
                 document.getElementById("list_block").appendChild(picDiv);
@@ -175,17 +159,17 @@ function serch(query){
             }
         }
     }else{
-        for(var i=0; i<arr_name.length; i++){
+        for(var i=0; i<music.length; i++){
             if (document.getElementById("song_" + i) !== null) {
                 document.getElementById("song_" + i).remove();
                 document.getElementById("song_pic_" + i).remove();
             }
         }
-        for(var i = 0; i<arr_name.length; i++){
+        for(var i = 0; i<music.length; i++){
             var iDiv = document.createElement('div');
             iDiv.id = 'song_'+i;
             iDiv.className = 'song_'+i;
-            iDiv.innerHTML = arr_name[i];
+            iDiv.innerHTML = music[i].artist+" - "+music[i].track;
             iDiv.style.borderBottom = "1px solid";
             iDiv.style.cursor = "pointer";
             iDiv.style.height = '51px';
@@ -193,7 +177,7 @@ function serch(query){
             var picDiv = document.createElement('img');
             picDiv.style.width = '50px';
             picDiv.style.height = '50px';
-            picDiv.setAttribute("src", album[i]);
+            picDiv.setAttribute("src", music[i].cover);
             picDiv.style.float = "left";
             picDiv.id = 'song_pic_'+i;
             document.getElementById("list_block").appendChild(picDiv);
@@ -203,7 +187,7 @@ function serch(query){
 
 }
 
-function sortBubble(data) {
+/*function sortBubble(data) {
     var tmp;
 
     for (var i = data.length - 1; i > 0; i--) {
@@ -218,7 +202,9 @@ function sortBubble(data) {
         }
     }
     return data;
-}
+}*/
+
+
 
 
 
