@@ -15,9 +15,9 @@ $(function(){
     $("#play").click(function(){
         if (document.getElementById("play").getAttribute("next") == "false") {
             changeButtonNext();
-            animationPanel();
+            animationPanel(null);
         } else {
-            animationPanel();
+            animationPanel(null);
         }
     });
 
@@ -33,9 +33,9 @@ function changeButtonNext(){
     document.getElementById("album-mini").style.display = "block";
 }
 
-function animationPanel(){
+function animationPanel(num){
     hideMiniPanel();
-    next(a[0],null);
+    next(a[0],num);
     setDataMiniPanel();
     setData(music[i].track, music[i].artist, music[i].album, music[i].cover);
     showPanel();
@@ -80,7 +80,7 @@ function list(){
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
                 iDiv.style.height = '51px';
-                iDiv.setAttribute("onclick","animationPanel()");
+                iDiv.setAttribute("onclick","animationPanel("+i+")");
                 var picDiv = document.createElement('img');
                 picDiv.style.width = '50px';
                 picDiv.style.height = '50px';
