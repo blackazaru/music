@@ -8,7 +8,7 @@ var i = 0;
 $(function(){
     window.a = audiojs.createAll({
         trackEnded: function(){
-            next(a[0],null);
+            animationPanel(null);
         }
     });
     list();
