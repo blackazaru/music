@@ -556,10 +556,10 @@ var music = [
         "cover":"http://www.renigk-news.de/daten/metamorphosis.jpg"
     },
     {
-        "track": "Swerve City",
+        "track": "Entombed",
         "artist": "Deftones",
         "album": "Koi No Yokan",
-        "cover": "http://1.avatars.yandex.net/get-music-content/61cec66b.a.626049-1/200x200",
+        "cover": "http://hangout.altsounds.com/geek/gars/images/1/2/8/3/8/deftoneskoinoyokancovernew.jpeg",
         "song": "http://elisto13d.music.yandex.ru/get-mp3/eb1244ed332c213b6ffe21ab45699ad8/508886898d662/7/data-0.1:508506248:7183463?track-id=5705634&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22new-ichwill-matrixnet%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-album-saved&albumId=626049"
     }
 ]
