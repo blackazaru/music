@@ -554,6 +554,12 @@ var music = [
         "album":"",
         "song":"http://elisto01f06.music.yandex.ru/get-mp3/abcb4312ad7b38fd8111cfc043756e3c/5088260c4d342/3/data-0.24:31428189758:6386624?track-id=6812&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-search-track-track-main&albumId=708",
         "cover":"http://www.renigk-news.de/daten/metamorphosis.jpg"
-
+    },
+    {
+        "track": "Swerve City",
+        "artist": "Deftones",
+        "album": "Koi No Yokan",
+        "cover": "http://1.avatars.yandex.net/get-music-content/61cec66b.a.626049-1/200x200",
+        "song": "http://elisto13d.music.yandex.ru/get-mp3/eb1244ed332c213b6ffe21ab45699ad8/508886898d662/7/data-0.1:508506248:7183463?track-id=5705634&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22new-ichwill-matrixnet%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-album-saved&albumId=626049"
     }
 ]
