@@ -561,5 +561,26 @@ var music = [
         "album": "Koi No Yokan",
         "cover": "http://hangout.altsounds.com/geek/gars/images/1/2/8/3/8/deftoneskoinoyokancovernew.jpeg",
         "song": "http://elisto13d.music.yandex.ru/get-mp3/eb1244ed332c213b6ffe21ab45699ad8/508886898d662/7/data-0.1:508506248:7183463?track-id=5705634&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22new-ichwill-matrixnet%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-album-saved&albumId=626049"
-    }
+    },
+    {  
+   "artist":"Black Veil Brides",
+   "song":"http://elisto03d.music.yandex.ru/get-mp3/af0e7c85ee9fef702cd1b49717336fa2/508b2c3fb4032/23/data-0.5:1505879670:5480070?track-id=5500863&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=1165233",
+   "cover":"http://0.avatars.yandex.net/get-music-content/2739e22c.a.1165233-1/200x200",
+   "album":"",
+   "track":"In the End"
+},
+{  
+   "artist":" Black Veil Brides",
+   "song":"http://elisto04e.music.yandex.ru/get-mp3/868dcdc8cbd53daa930651cd39c88843/508b2cbaa8be0/7/data-0.18:35975819267:5139016?track-id=8403761&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-album-track-track-main&albumId=1165233",
+   "cover":"http://0.avatars.yandex.net/get-music-content/2739e22c.a.1165233-1/200x200",
+   "album":"",
+   "track":"I Am Bulletproof"
+},
+{  
+   "artist":"Black Veil Brides",
+   "song":"http://elisto06d.music.yandex.ru/get-mp3/402d4c4a6a6bd8f082ff7b3984d2eca8/508b2cdf792c5/42/data-0.15:26709578102:5228041?track-id=8403762&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-album-track-track-main&albumId=1165233",
+   "cover":"http://0.avatars.yandex.net/get-music-content/2739e22c.a.1165233-1/200x200",
+   "album":"",
+   "track":"Wretched And Divine"
+}
 ]
