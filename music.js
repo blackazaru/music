@@ -778,21 +778,21 @@ var music = [
 {  
    "artist":"Skillet",
    "song":"http://elisto05d.music.yandex.ru/get-mp3/f140db46163c9e05bb2d189657187c6c/50942a8905d22/12/data-0.18:24555077033:4485119?track-id=418017&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2259369",
-   "cover":"http://2.avatars.yandex.net/get-music-content/d6eba027.a.215849-1/200x200",
+   "cover":"http://3.avatars.yandex.net/get-music-content/be962027.a.2259369-1/200x200",
    "album":"Vital Signs",
    "track":"Hero"
 },
 {  
    "artist":"Skillet",
    "song":"http://elisto06d.music.yandex.ru/get-mp3/280bfd256ef33189810f9c52659d79f3/50942a961e584/28/data-0.19:3021812715:4273840?track-id=418024&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2259369",
-   "cover":"http://2.avatars.yandex.net/get-music-content/d6eba027.a.215849-1/200x200",
+   "cover":"http://3.avatars.yandex.net/get-music-content/be962027.a.2259369-1/200x200",
    "album":"Vital Signs",
    "track":"Monster"
 },
 {  
    "artist":"Skillet",
    "song":"http://elisto15f.music.yandex.ru/get-mp3/f6fbd10f3b2fa71a63b6e2e24a846315/50942ab12f449/2/data-0.16:9880172975:6260609?track-id=10367039&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2259369",
-   "cover":"http://2.avatars.yandex.net/get-music-content/d6eba027.a.215849-1/200x200",
+   "cover":"http://3.avatars.yandex.net/get-music-content/be962027.a.2259369-1/200x200",
    "album":"Vital Signs",
    "track":"Rise"
 }
