@@ -78,6 +78,193 @@ var music = [
     "cover": "http://cdn.licklibrary.com////cdn.licklibrary.com/~/media/LL/Uploads/news/F/Fever.ashx"
   },
   {
+    "artist": "Thousand Foot Krutch",
+    "song": "http://elisto10d.music.yandex.ru/get-mp3/3a22d939e10e97aa2fe3539c4a70c054/5094214e8c71d/11/data-0.34:51350836713:5010493?track-id=326471&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=2338179",
+    "cover": "http://1.avatars.yandex.net/get-music-content/98d6a009.a.2338179-2/200x200",
+    "album": "The Ultimate Collection",
+    "track": "Move"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto06e.music.yandex.ru/get-mp3/27920470cbc8442b71ab3b23b86e901f/509421b773d7e/43/data-0.26:9231465442:4303306?track-id=326473&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=2338179",
+      "cover": "http://1.avatars.yandex.net/get-music-content/98d6a009.a.2338179-2/200x200",
+      "album": "The Ultimate Collection",
+      "track": "Phenomenon"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto15d.music.yandex.ru/get-mp3/112a04588711dc9f0d9681fd3d67880b/509421d34abb0/10/data-0.31:50186306854:5647464?track-id=18578407&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=2066678",
+      "cover": "http://0.avatars.yandex.net/get-music-content/9ba5cff1.a.2066678-1/200x200",
+      "album": "Oxygen: Inhale",
+      "track": "Untraveled Road"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto15f.music.yandex.ru/get-mp3/24bce231812a31cfcc25257fcf14faf9/5094221d6f433/1/data-0.29:11221690697:5545900?track-id=18578409&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-album_track-track-track-saved&albumId=2066678",
+      "cover": "http://0.avatars.yandex.net/get-music-content/9ba5cff1.a.2066678-1/200x200",
+      "album": "Oxygen: Inhale",
+      "track": "Oxygen"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto03f.music.yandex.ru/get-mp3/b79a569feb271176b6b82866e296da15/5094223c139f2/30/data-0.57:26965104994:4932754?track-id=18578413&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-album_track-track-track-main&albumId=2066678",
+      "cover": "http://0.avatars.yandex.net/get-music-content/9ba5cff1.a.2066678-1/200x200",
+      "album": "Oxygen: Inhale",
+      "track": "Born This Way"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto05d.music.yandex.ru/get-mp3/d2cdb0cb9c6fc21838bcb2261c1c7927/50942289ea0e5/23/data-0.5:26677475500:4792946?track-id=326479&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=48845",
+      "cover": "http://2.avatars.yandex.net/get-music-content/a7565537.a.48845-1/200x200",
+      "album": "The Art of Breaking",
+      "track": "The Art of Breaking"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto01f.music.yandex.ru/get-mp3/4761fc7a829620e54b6d6cca9df307bc/509422b9bc296/6/data-0.33:52760055684:5641821?track-id=326493&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=40666",
+      "cover": "http://0.avatars.yandex.net/get-music-content/4d6cf551.a.40666-1/200x200",
+      "album": "The Flame In All Of Us",
+      "track": "Broken Wing"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto13e.music.yandex.ru/get-mp3/75784489ce16089f369f59bc0c93fc80/509422e594f99/14/data-0.4:31695877863:4411767?track-id=326482&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=34963",
+      "cover": "http://0.avatars.yandex.net/get-music-content/4578cb9e.a.34963-1/200x200",
+      "album": "Phenomenon",
+      "track": "Break The Silence"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto06e.music.yandex.ru/get-mp3/3ff385427a1a4a168cd8f51a01778409/5094230a75dee/43/data-0.26:9231465442:4303306?track-id=326473&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=34963",
+      "cover": "http://0.avatars.yandex.net/get-music-content/4578cb9e.a.34963-1/200x200",
+      "album": "Phenomenon",
+      "track": "Phenomenon"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto12d.music.yandex.ru/get-mp3/f3872c239f5f2f0b568a431595e08f91/5094235711d1f/11/data-0.8:8878140172:5038079?track-id=326494&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=34963",
+      "cover": "http://0.avatars.yandex.net/get-music-content/4578cb9e.a.34963-1/200x200",
+      "album": "Phenomenon",
+      "track": "New Design"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto12e.music.yandex.ru/get-mp3/b86ec66301e5013ecdea6b60353d01fb/50942372ee6ab/2/data-0.15:46202031183:4201742?track-id=326469&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=34963",
+      "cover": "http://0.avatars.yandex.net/get-music-content/4578cb9e.a.34963-1/200x200",
+      "album": "Phenomenon",
+      "track": "Faith, Love And Happiness"
+  }, {
+      "artist": "Thousand Foot Krutch",
+      "song": "http://elisto01d.music.yandex.ru/get-mp3/c6406674abb3acbd5d2224b46be465e0/509423a1946d4/12/data-0.8:5979224429:6833004?track-id=326489&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=48845",
+      "cover": "http://2.avatars.yandex.net/get-music-content/a7565537.a.48845-1/200x200",
+      "album": "The Art of Breaking",
+      "track": "Hurt"
+  }, {
+      "artist": "Godsmack",
+      "song": "http://elisto04f.music.yandex.ru/get-mp3/58d5772178c50e3743429352f65788a4/509423d352554/20/data-0.17:19831793356:13044714?track-id=772983&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=86192",
+      "cover": "http://2.avatars.yandex.net/get-music-content/1d20102f.a.86192-1/200x200",
+      "album": "Godsmack",
+      "track": "Voodoo"
+  }, {
+      "artist": "Godsmack",
+      "song": "http://elisto13f.music.yandex.ru/get-mp3/0dd3d4abe891303673163762841ae30f/509424053c1d0/15/data-0.27:46976798873:5880684?track-id=19200904&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-fridge&albumId=2154100",
+      "cover": "http://0.avatars.yandex.net/get-music-content/d3789a98.a.2154100-1/200x200",
+      "album": "1000hp",
+      "track": "Life Is Good"
+  }, {
+      "artist": "Godsmack",
+      "song": "http://elisto12f.music.yandex.ru/get-mp3/df84e5bfbb29e24641045241b7cb3fff/5094243524258/10/data-0.65:44727888739:6260609?track-id=72244&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_albums-album-track-saved&albumId=6172",
+      "cover": "http://1.avatars.yandex.net/get-music-content/8c0df3ba.a.6172-1/200x200",
+      "album": "Good Times, Bad Times - Ten Years of Godsmack",
+      "track": "Re-Align"
+  }, {
+      "artist": "Deftones",
+      "song": "http://elisto14d.music.yandex.ru/get-mp3/d1df6e37ec40519b54a698c853813f7d/50942484599a9/17/data-0.0:61802692038:4665677?track-id=178599&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-own_history-track-track-main&albumId=21842",
+      "cover": "http://3.avatars.yandex.net/get-music-content/993a6ccb.a.21842-1/200x200",
+      "album": "Saturday Night Wrist",
+      "track": "Kimdracula"
+  }, {
+      "artist": "System Of A Down",
+      "song": "http://elisto10e.music.yandex.ru/get-mp3/fc0e37f1d4e275a42237af85432e718e/509424d48b519/10/data-0.24:12844483488:6165941?track-id=179461&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=73442",
+      "cover": "http://1.avatars.yandex.net/get-music-content/53c6be0e.a.73442-1/200x200",
+      "album": "Mezmerize",
+      "track": "B.Y.O.B."
+  }, {
+      "artist": "Limp Bizkit",
+      "song": "http://elisto02f.music.yandex.ru/get-mp3/4ec28eb4f82b96755695e4c733cf7b5e/509425473f920/21/data-0.34:9231029543:5606085?track-id=2285653&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=226532",
+      "cover": "http://0.avatars.yandex.net/get-music-content/a64fe24f.a.226532-1/200x200",
+      "album": "Gold Cobra",
+      "track": "Gold Cobra"
+  }, {
+      "artist": "Limp Bizkit",
+      "song": "http://elisto07d.music.yandex.ru/get-mp3/189d65b158973d5efdb4c964bdd8e99a/50942595872da/18/data-0.9:24332475553:5313305?track-id=34623&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=2874",
+      "cover": "http://0.avatars.yandex.net/get-music-content/ad96e14a.a.2874-1/200x200",
+      "album": "Greatest Hitz",
+      "track": "My Generation"
+  }, {
+      "artist": "Limp Bizkit",
+      "song": "http://elisto06e.music.yandex.ru/get-mp3/e7b9c0b78f328715e4cd6ff5aab79335/509425c33263f/6/data-0.1:47660507154:7679372?track-id=34643&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=2874",
+      "cover": "http://0.avatars.yandex.net/get-music-content/ad96e14a.a.2874-1/200x200",
+      "album": "Greatest Hitz",
+      "track": "Take A Look Around"
+  }, {
+      "artist": "Limp Bizkit",
+      "song": "http://elisto11f.music.yandex.ru/get-mp3/901f1cb15513a6c67515c45af433a6fb/509425fc586a0/15/data-0.49:13940316865:6495084?track-id=34608&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=2874",
+      "cover": "http://0.avatars.yandex.net/get-music-content/ad96e14a.a.2874-1/200x200",
+      "album": "Greatest Hitz",
+      "track": "Behind Blue Eyes"
+  }, {
+      "artist": "Limp Bizkit",
+      "song": "http://elisto03d.music.yandex.ru/get-mp3/175f9d413af360c62f31d7ed801ea8eb/50942635a68bc/4/data-0.12:1765272343:6556524?track-id=34631&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=2874",
+      "cover": "http://0.avatars.yandex.net/get-music-content/ad96e14a.a.2874-1/200x200",
+      "album": "Greatest Hitz",
+      "track": "My Way"
+  }, {
+      "artist": "AC/DC",
+      "song": "http://elisto04d.music.yandex.ru/get-mp3/cc6fc14583fa1ea341f8cfc6a9da3c8d/50942680f9980/28/data-0.23:48398065846:4749687?track-id=18974943&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-search-track-track-main&albumId=2120509",
+      "cover": "http://1.avatars.yandex.net/get-music-content/6732029b.a.2120509-2/200x200",
+      "album": "Halloween Horrors",
+      "track": "Highway To Hell"
+  }, {
+      "artist": "Skillet",
+      "song": "http://elisto12e.music.yandex.ru/get-mp3/50746589cbcecad0dce6298ea0f16403/509426b2b82b7/12/data-0.0:3059620790:5532106?track-id=135147&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-saved&albumId=2259369",
+      "cover": "http://3.avatars.yandex.net/get-music-content/be962027.a.2259369-1/200x200",
+      "album": "Vital Signs",
+      "track": "Comatose"
+  }, {
+      "artist": "Disturbed",
+      "song": "http://elisto03e.music.yandex.ru/get-mp3/28a64a5040fe9c5d8562b786c4e3a97a/5094271fc7c1c/18/data-0.14:3981485522:6194781?track-id=368216&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=299197",
+      "cover": "http://3.avatars.yandex.net/get-music-content/10a80d00.a.299197-1/200x200",
+      "album": "The Studio Album Collection",
+      "track": "Shout"
+  }, {
+      "artist": "Disturbed",
+      "song": "http://elisto07e.music.yandex.ru/get-mp3/e9e913317e571443f0c50e88f8ea8260/5094277ca9fb9/40/data-0.14:4777327625:6865605?track-id=179330&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-saved&albumId=299197",
+      "cover": "http://3.avatars.yandex.net/get-music-content/10a80d00.a.299197-1/200x200",
+      "album": "The Studio Album Collection",
+      "track": "The Night"
+  }, {
+      "artist": "Godsmack",
+      "song": "http://elisto02e.music.yandex.ru/get-mp3/33a85d682211f842ceabb08190120158/509427bc038bb/24/data-0.49:38038217071:5137762?track-id=19200907&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist-top_tracks-track-main&albumId=2154100",
+      "cover": "http://0.avatars.yandex.net/get-music-content/d3789a98.a.2154100-1/200x200",
+      "album": "1000hp",
+      "track": "I Don't Belong"
+  }, {
+      "artist": "Godsmack",
+      "song": "http://elisto03e.music.yandex.ru/get-mp3/870ed25bdd698e977b4405879caa6d48/509427e6ef842/16/data-0.47:16299409242:6301987?track-id=19200902&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-album_track-track-track-main&albumId=2154100",
+      "cover": "http://0.avatars.yandex.net/get-music-content/d3789a98.a.2154100-1/200x200",
+      "album": "1000hp",
+      "track": "What’s Next?"
+  }, {
+      "artist": "Korn",
+      "song": "http://elisto04f.music.yandex.ru/get-mp3/2bae09d115ade460443d1c212ddddc73/50942831ecc65/5/data-0.27:8081554541:7188479?track-id=2789544&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-artist_tracks-track-track-main&albumId=302481",
+      "cover": "http://1.avatars.yandex.net/get-music-content/52484011.a.302481-1/200x200",
+      "album": "Best Of",
+      "track": "No One's There"
+  }, {
+      "artist": "Korn",
+      "song": "http://elisto07d.music.yandex.ru/get-mp3/762a94315369d4eb5733050dc9b39d6b/50942864fa8f0/5/data-0.17:44164801885:5153435?track-id=656721&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-album-track-track-main&albumId=302481",
+      "cover": "http://1.avatars.yandex.net/get-music-content/52484011.a.302481-1/200x200",
+      "album": "Best Of",
+      "track": "Everything I've Known"
+  }, {
+      "artist": "Korn",
+      "song": "http://elisto08d.music.yandex.ru/get-mp3/8ac2c029927dc78e977f9bcccd937383/5094287cc8cc3/14/data-0.34:23426372219:4127764?track-id=673612&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%7D&from=web-album_track-track-track-main&albumId=302481",
+      "cover": "http://1.avatars.yandex.net/get-music-content/52484011.a.302481-1/200x200",
+      "album": "Best Of",
+      "track": "Word Up!"
+  },
+  {
     "track": "Diamond Eyes",
     "artist": "Deftones",
     "album": "",
