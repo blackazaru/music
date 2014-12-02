@@ -749,7 +749,7 @@ var music = [
 },
 {  
    "artist":"Sum 41",
-   "song":"http://elisto06d.music.yandex.ru/get-mp3/08e097d4322c659b7415af04461a66f8/50942558b2ad9/13/data-0.4:31335619186:4932126?track-id=3718621&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=1562146",
+   "song":"http://elisto06e.music.yandex.ru/get-mp3/1fcee95172cc8b67efea4fd350e2476a/50942fb8012c3/39/data-0.26:23711237064:4360985?track-id=39702&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-search-track-track-main&albumId=3285",
    "cover":"http://2.avatars.yandex.net/get-music-content/9e783f7e.a.3285-1/200x200",
    "album":"Chuck",
    "track":"Pieces"
