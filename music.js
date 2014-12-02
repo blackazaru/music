@@ -502,6 +502,6 @@ var music = [
    "song":"http://elisto01f.music.yandex.ru/get-mp3/0ef5a59c1d90d5e119d2db519954f645/509421d25e750/18/data-0.42:22493862873:5596681?track-id=17199034&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=1893052",
    "cover":"http://3.avatars.yandex.net/get-music-content/029c805f.a.1893052-1/200x200",
    "album":"May Death Never Stop You",
-   "track":"Honey, This Mirror Isn't Big Enough For The Two Of Us"
+   "track":"Honey, This Mirror Isn't Big Enough ..."
 }
 ];
