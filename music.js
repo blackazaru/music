@@ -690,5 +690,110 @@ var music = [
    "cover":"http://3.avatars.yandex.net/get-music-content/029c805f.a.1893052-1/200x200",
    "album":"May Death Never Stop You",
    "track":"Honey, This Mirror Isn't Big Enough ..."
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto14d.music.yandex.ru/get-mp3/007102188180184df8f243e3ddf17f1a/5094243170260/17/data-0.21:25070678527:5599189?track-id=17643338&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=2000237",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"The Hunting Party",
+   "track":"Until It's Gone"
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto04e.music.yandex.ru/get-mp3/d45bd3ed36055321c8dd3dbba2942888/5094247b410b7/7/data-0.35:19584951430:1451989?track-id=18061609&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=2000237",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"The Hunting Party",
+   "track":"The Summoning"
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto06e.music.yandex.ru/get-mp3/3a838fd68d66efdd1f19572c0c27ec5c/5094248a123f5/44/data-0.28:41623773327:3149112?track-id=18061605&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=2000237",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"The Hunting Party",
+   "track":"War"
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto07e.music.yandex.ru/get-mp3/e76b788a0b50c53cc0c921906fccf65f/509424b9c9eaa/34/data-0.32:41279434597:4924603?track-id=4304915&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=488133",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"Living Things",
+   "track":"Lost In The Echo"
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto02d.music.yandex.ru/get-mp3/fbbf11eafa1657ff35a50f6baf2a6cb4/509424d45c4da/17/data-0.18:28121490193:4818023?track-id=4304911&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=488133",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"Living Things",
+   "track":"In My Remains"
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto06d.music.yandex.ru/get-mp3/18432ac30e31f90f9d5772260510f5f2/5094250502d92/42/data-0.6:10478246129:5553422?track-id=3931702&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=488133",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"Living Things",
+   "track":"Burn It Down"
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto12f.music.yandex.ru/get-mp3/2bba23d0f3b5d13d422a339d156c46b9/50942517b5af1/18/data-0.20:10048560869:5067545?track-id=4304914&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=488133",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"Living Things",
+   "track":"I’ll Be Gone"
+},
+{  
+   "artist":"Linkin Park",
+   "song":"http://elisto04f.music.yandex.ru/get-mp3/59ffcfba8482af9af33c95662be46813/509425371f461/13/data-0.31:43791477208:4041873?track-id=4304909&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=488133",
+   "cover":"http://2.avatars.yandex.net/get-music-content/595d519b.a.2000237-1/200x200",
+   "album":"Living Things",
+   "track":"Skin to Bone"
+},
+{  
+   "artist":"Sum 41",
+   "song":"http://elisto06d.music.yandex.ru/get-mp3/08e097d4322c659b7415af04461a66f8/50942558b2ad9/13/data-0.4:31335619186:4932126?track-id=3718621&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=1562146",
+   "cover":"http://2.avatars.yandex.net/get-music-content/9e783f7e.a.3285-1/200x200",
+   "album":"Chuck",
+   "track":"Pieces"
+},
+{  
+   "artist":"Sum 41",
+   "song":"http://elisto06d.music.yandex.ru/get-mp3/08e097d4322c659b7415af04461a66f8/50942558b2ad9/13/data-0.4:31335619186:4932126?track-id=3718621&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=1562146",
+   "cover":"http://2.avatars.yandex.net/get-music-content/9e783f7e.a.3285-1/200x200",
+   "album":"Chuck",
+   "track":"No Reason"
+},
+{  
+   "artist":"Sum 41",
+   "song":"http://elisto06d.music.yandex.ru/get-mp3/08e097d4322c659b7415af04461a66f8/50942558b2ad9/13/data-0.4:31335619186:4932126?track-id=3718621&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=1562146",
+   "cover":"http://2.avatars.yandex.net/get-music-content/9e783f7e.a.3285-1/200x200",
+   "album":"Chuck",
+   "track":"Open Your Eyes"
+},
+{  
+   "artist":"Sum 41",
+   "song":"http://elisto06d.music.yandex.ru/get-mp3/08e097d4322c659b7415af04461a66f8/50942558b2ad9/13/data-0.4:31335619186:4932126?track-id=3718621&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=1562146",
+   "cover":"http://2.avatars.yandex.net/get-music-content/d6eba027.a.215849-1/200x200",
+   "album":"Screaming Bloody Murder",
+   "track":"Screaming Bloody Murder"
+},
+{  
+   "artist":"Skillet",
+   "song":"http://elisto05d.music.yandex.ru/get-mp3/f140db46163c9e05bb2d189657187c6c/50942a8905d22/12/data-0.18:24555077033:4485119?track-id=418017&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2259369",
+   "cover":"http://2.avatars.yandex.net/get-music-content/d6eba027.a.215849-1/200x200",
+   "album":"Vital Signs",
+   "track":"Hero"
+},
+{  
+   "artist":"Skillet",
+   "song":"http://elisto06d.music.yandex.ru/get-mp3/280bfd256ef33189810f9c52659d79f3/50942a961e584/28/data-0.19:3021812715:4273840?track-id=418024&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2259369",
+   "cover":"http://2.avatars.yandex.net/get-music-content/d6eba027.a.215849-1/200x200",
+   "album":"Vital Signs",
+   "track":"Monster"
+},
+{  
+   "artist":"Skillet",
+   "song":"http://elisto15f.music.yandex.ru/get-mp3/f6fbd10f3b2fa71a63b6e2e24a846315/50942ab12f449/2/data-0.16:9880172975:6260609?track-id=10367039&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2259369",
+   "cover":"http://2.avatars.yandex.net/get-music-content/d6eba027.a.215849-1/200x200",
+   "album":"Vital Signs",
+   "track":"Rise"
 }
 ];
