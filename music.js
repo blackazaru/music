@@ -447,5 +447,61 @@ var music = [
     "cover": "http://3.avatars.yandex.net/get-music-content/5f909cfc.a.624758-1/200x200",
     "album": "Toxicity",
     "track": "Science"
-  }
+  },
+  {  
+   "artist":"Billy Talent",
+   "song":"http://elisto05d.music.yandex.ru/get-mp3/9b68afcbc21dc8dc8e45c6475569ab88/50941fdc8471a/18/data-0.30:30645107280:5097011?track-id=19933901&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2291897",
+   "cover":"http://0.avatars.yandex.net/get-music-content/4434c33f.a.2291897-1/200x200",
+   "album":"Hits",
+   "track":"Kingdom of Zod"
+},
+{  
+   "artist":"Billy Talent",
+   "song":"http://elisto01d.music.yandex.ru/get-mp3/b4102ce0baf3881d7acbd898005d57ae/509420058a972/1/data-0.22:11002825314:4725863?track-id=135046&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=2291897",
+   "cover":"http://0.avatars.yandex.net/get-music-content/4434c33f.a.2291897-1/200x200",
+   "album":"Hits",
+   "track":"Red Flag"
+},
+{  
+   "artist":"Green Day",
+   "song":"http://elisto04d.music.yandex.ru/get-mp3/55f5d040154bcddc45c3c95bfcbc2ab5/5094203debd4a/33/data-0.10:18687737218:6279417?track-id=370429&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=41332",
+   "cover":"http://0.avatars.yandex.net/get-music-content/5d973577.a.41332-1/200x200",
+   "album":"Green Day",
+   "track":"Boulevard Of Broken Dreams"
+},
+{  
+   "artist":"Green Day",
+   "song":"http://elisto05d.music.yandex.ru/get-mp3/2ede73798f190da4bc8252ec260af5c2/5094207a30025/47/data-0.8:5592698438:5594173?track-id=370406&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=37617",
+   "cover":"http://0.avatars.yandex.net/get-music-content/d1dac19e.a.37617-1/200x200",
+   "album":"Holiday",
+   "track":"Holiday"
+},
+{  
+   "artist":"Green Day",
+   "song":"http://elisto09d.music.yandex.ru/get-mp3/052df5088383e4b3587cb529628b3ea1/50942107d23cf/15/data-0.45:12842712288:4358477?track-id=125802&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=11944",
+   "cover":"http://0.avatars.yandex.net/get-music-content/ba50d45b.a.11944-1/200x200",
+   "album":"International Superhits!",
+   "track":"Basket Case"
+},
+{  
+   "artist":"My Chemical Romance",
+   "song":"http://elisto12e.music.yandex.ru/get-mp3/250569a9b5eeee26f149dfc625df0b83/5094216613042/9/data-0.6:24870927706:4822412?track-id=178624&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=21917",
+   "cover":"http://2.avatars.yandex.net/get-music-content/ee795ab2.a.21917-1/200x200",
+   "album":"The Black Parade",
+   "track":"The Sharpest Lives"
+},
+{  
+   "artist":"My Chemical Romance",
+   "song":"http://elisto04f06.music.yandex.ru/get-mp3/a7c48058b103538d338cd486af7cec73/509421a78322c/11/data-0.32:7421990561:7278758?track-id=170283&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_tracks-track-main&albumId=21917",
+   "cover":"http://2.avatars.yandex.net/get-music-content/ee795ab2.a.21917-1/200x200",
+   "album":"The Black Parade",
+   "track":"Famous Last Words"
+},
+{  
+   "artist":"My Chemical Romance",
+   "song":"http://elisto01f.music.yandex.ru/get-mp3/0ef5a59c1d90d5e119d2db519954f645/509421d25e750/18/data-0.42:22493862873:5596681?track-id=17199034&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-top_albums-track-fridge&albumId=1893052",
+   "cover":"http://3.avatars.yandex.net/get-music-content/029c805f.a.1893052-1/200x200",
+   "album":"May Death Never Stop You",
+   "track":"Honey, This Mirror Isn't Big Enough For The Two Of Us"
+}
 ];
