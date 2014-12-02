@@ -1,78 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
     <title>Music</title>
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,300italic,400italic' rel='stylesheet'
+          type='text/css'>
     <link rel="stylesheet" href="includes/index.css" media="screen">
-  </head>
-  <body>
+</head>
+<body>
 
-  <canvas class="snow" width="100%" height="100%"></canvas>
+<canvas class="snow" width="100%" height="100%"></canvas>
 
-    <div id="list"><h2>List</h2></div>
-    <div id="list_block" open="false" style=" z-index: 20; position: absolute; margin-top: 2%; margin-left: 74%; width: 25%; background: #0B0B0A">
-    </div>
+<div id="list"><h2>List</h2></div>
+<div id="list_block" open="false"
+     style=" z-index: 20; position: absolute; margin-top: 2%; margin-left: 74%; width: 25%; background: #0B0B0A">
+</div>
 
-    <div class="outer" style="display: none">
-        <div id="panel">
-            <img id="cover">&nbsp;
-            <div class="column">
-                <div id="track"></div>
-                <div id="line-track"></div>
-                <div id="album"></div>
-                <div id="artist"></div>
-                <div id="line-artist"></div>
-            </div>
+<div class="outer" style="display: none">
+    <div id="panel">
+        <img id="cover">&nbsp;
+        <div class="column">
+            <div id="track"></div>
+            <div id="line-track"></div>
+            <div id="album"></div>
+            <div id="artist"></div>
+            <div id="line-artist"></div>
         </div>
     </div>
+</div>
 
 
-    <div id="mini-panel" >
-        <div id="album-mini"></div>
+<div id="mini-panel">
+    <div id="album-mini"></div>
 
-        <div class="info_panel">
-            <div class="name_div" id="name_div">
-                <a class="name" id="name"></a>
-            </div>
-            <div class="name_div_notfloat" >
-                <a class="name_notfloat" id="name_album"></a>
-            </div>
-            <div class="name_div_notfloat" >
-                <a class="name_notfloat" id="name_group"></a>
-            </div>
+    <div class="info_panel">
+        <div class="name_div" id="name_div">
+            <a class="name" id="name"></a>
+        </div>
+        <div class="name_div_notfloat">
+            <a class="name_notfloat" id="name_album"></a>
+        </div>
+        <div class="name_div_notfloat">
+            <a class="name_notfloat" id="name_group"></a>
         </div>
     </div>
+</div>
 
-    <div id="line-panel" style="display: none">
-        <div style="float: left;" id="audios" class="audios">
-            <audio src="http://dl.zaycev.net/86004/421474/rise_against_-_hero_of_war_(zaycev.net).mp3" preload="auto"></audio>
-        </div>
+<div id="line-panel" style="display: none">
+    <div style="float: left;" id="audios" class="audios">
+        <audio src="http://dl.zaycev.net/86004/421474/rise_against_-_hero_of_war_(zaycev.net).mp3"
+               preload="auto"></audio>
     </div>
-
-    <div style="width: 200px; margin: 0 auto;"><h3 id="play" style="text-align: center; cursor: pointer; display: none; opacity: 0;" next="false">Play</h3></div>
-    <!--<div style="margin-top: 17%">Danik Tsyrkunov & Alex Saskevich © 2014</div>-->
-  </body>
+</div>
+<div style="width: 200px; margin: 0 auto;"><h3 id="play"
+                                               style="text-align: center; cursor: pointer; display: none; opacity: 0;"
+                                               next="false">Play</h3></div>
+<!--<div style="margin-top: 17%">Danik Tsyrkunov & Alex Saskevich © 2014</div>-->
+</body>
 </html>
 <script src="./audiojs/audio.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="jquery.min.js"></script>
-        <script src="jquery.transit.min.js"></script>
-        <script src="jquery.let_it_snow.js"></script>
-        <script src="app.js"></script>
+<script src="jquery.min.js"></script>
+<script src="jquery.transit.min.js"></script>
+<script src="jquery.let_it_snow.js"></script>
+<script src="app.js"></script>
 <script src="main.js"></script>
 <script src="music.js"></script>
 
 
-
-
-
 <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-55190583-2', 'auto');
     ga('send', 'pageview');

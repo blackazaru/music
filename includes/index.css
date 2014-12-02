@@ -1,116 +1,158 @@
-@font-face { font-family: 'bpreplay'; font-weight: normal; font-style: normal; src: url('BPreplay-webfont.eot'); src: local('☺'), url('BPreplay-webfont.woff') format('woff'), url('BPreplay-webfont.ttf') format('truetype'), url('BPreplay-webfont.svg#webfontgzJ8Cr4g') format('svg'); }
+@font-face {
+    font-family: 'bpreplay';
+    font-weight: normal;
+    font-style: normal;
+    src: url('BPreplay-webfont.eot');
+    src: local('☺'), url('BPreplay-webfont.woff') format('woff'), url('BPreplay-webfont.ttf') format('truetype'), url('BPreplay-webfont.svg#webfontgzJ8Cr4g') format('svg');
+}
 
 @import "http://fonts.googleapis.com/css?family=Lato";
 
-body { width: 100%; margin: 0 auto; font-family:'Lato',sans-serif; background: #0B0B0A; color: whitesmoke; line-height: 1.3; }
+body {
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    background: #0B0B0A;
+    color: whitesmoke;
+    line-height: 1.3;
+}
 
-.audiojs { float: left;}
+.audiojs {
+    float: left;
+}
 
-#list:hover{cursor: pointer;}
+#list:hover {
+    cursor: pointer;
+}
 
-#list{ position: absolute; margin-top: -2%; margin-left: 94%; display: none; }
+#list {
+    position: absolute;
+    margin-top: -2%;
+    margin-left: 94%;
+    display: none;
+}
 
-#album-mini{ display: none; width: 110px; height:  110px; float: left;}
+#album-mini {
+    display: none;
+    width: 110px;
+    height: 110px;
+    float: left;
+}
 
-#input{ width: 98%; }
-.name_notfloat{border-bottom: none;}
-.name{border-bottom: none;}
+#input {
+    width: 98%;
+}
 
-.name_div_notfloat{font-size: 20px;margin-left: 1%; color: #bbc1ba; font-family: 'Lato', sans-serif, '300italic';}
-.name_div{font-size: 30px; margin-left: 1%; color:white; font-family: 'Lato', sans-serif, 700;}
+.name_notfloat {
+    border-bottom: none;
+}
 
-#mini-panel{
+.name {
+    border-bottom: none;
+}
+
+.name_div_notfloat {
+    font-size: 20px;
+    margin-left: 1%;
+    color: #bbc1ba;
+    font-family: 'Lato', sans-serif, '300italic';
+}
+
+.name_div {
+    font-size: 30px;
+    margin-left: 1%;
+    color: white;
+    font-family: 'Lato', sans-serif, 700;
+}
+
+#mini-panel {
     width: 98%;
     position: absolute;
     margin-top: 35.5%;
     margin-left: -50%;
 }
-.info_panel{
+
+.info_panel {
     margin-top: 0.5%;
     margin-left: 0.6%;
     width: 700px;
     float: left;
 }
-#line-panel{
+
+#line-panel {
     position: absolute;
     margin-top: 42%;
     width: 98%;
 }
 
-
-
-
-
 .outer {
-    width:90%;
-    position:absolute;
-    margin-top:11%;
-    margin-left:30%
+    width: 90%;
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 30%
 }
 
 .outer > #panel {
-    display:flex;
-    position:fixed;
-    width:auto;
-    height:170px;
-    font-size:32px
+    display: flex;
+    position: fixed;
+    width: auto;
+    height: 170px;
+    font-size: 32px
 }
 
 .column {
-    flex-direction:column;
-    float:right;
-    position:absolute;
-    margin:auto;
-    top:0;
-    bottom:0;
-    padding-left:15px;
-    white-space:nowrap
+    flex-direction: column;
+    float: right;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    padding-left: 15px;
+    white-space: nowrap
 }
 
 #cover {
-    width:240px;
-    height:240px;
-    background-image:url(http://upload.wikimedia.org/wikipedia/en/c/ce/Riseagainstendgame.jpg);
-    background-size:100%;
-    flex-direction:column
+    width: 240px;
+    height: 240px;
+    background-image: url(http://upload.wikimedia.org/wikipedia/en/c/ce/Riseagainstendgame.jpg);
+    background-size: 100%;
+    flex-direction: column
 }
 
 #track {
-    font-size:54px;
-    font-weight:700;
-    padding:0 0 0 7px;
-    color:white;
+    font-size: 54px;
+    font-weight: 700;
+    padding: 0 0 0 7px;
+    color: white;
     font-family: 'Lato', sans-serif, '300italic';
 }
 
 #album {
-    padding-top:-2px;
-    padding-bottom:2px;
-    padding-left:7px;
+    padding-top: -2px;
+    padding-bottom: 2px;
+    padding-left: 7px;
     color: #bbc1ba;
     font-family: 'Lato', sans-serif, '300italic';
 }
 
 #artist {
-    padding:2px 2px 0 7px;
-    margin-top:-2px;
+    padding: 2px 2px 0 7px;
+    margin-top: -2px;
     color: #bbc1ba;
     font-family: 'Lato', sans-serif, '300italic';
 }
 
-#line-track{
-     width: 200px;
-     height: 3px;
-     background: white;
+#line-track {
+    width: 200px;
+    height: 3px;
+    background: white;
 }
 
-#line-artist{
+#line-artist {
     width: 200px;
     height: 1px;
     background: #bbc1ba;
 }
-
-
 
 canvas {
     display: block;

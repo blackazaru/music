@@ -44,6 +44,7 @@ function animationPanel(num){
 }
 
 function list(){
+    sortBubble(music);
     $("#list").click(function(){
         if (document.getElementById("list_block").getAttribute("open") == "false") {
             document.getElementById("list_block").setAttribute("open", "true");
@@ -147,7 +148,7 @@ function serch(query){
                 iDiv.style.borderBottom = "1px solid";
                 iDiv.style.cursor = "pointer";
                 iDiv.style.height = '51px';
-                iDiv.setAttribute("onclick","animationPanel()");
+                iDiv.setAttribute("onclick","animationPanel("+i+")");
                 var picDiv = document.createElement('img');
                 picDiv.style.width = '50px';
                 picDiv.style.height = '50px';
@@ -173,7 +174,7 @@ function serch(query){
             iDiv.style.borderBottom = "1px solid";
             iDiv.style.cursor = "pointer";
             iDiv.style.height = '51px';
-            iDiv.setAttribute("onclick","animationPanel()");
+            iDiv.setAttribute("onclick","animationPanel("+i+")");
             var picDiv = document.createElement('img');
             picDiv.style.width = '50px';
             picDiv.style.height = '50px';
@@ -187,22 +188,20 @@ function serch(query){
 
 }
 
-/*function sortBubble(data) {
+function sortBubble(data) {
     var tmp;
 
     for (var i = data.length - 1; i > 0; i--) {
         for (var j = 0; j < i; j++) {
-            if (data[j] > data[j+1]) {
+            if (data[j].artist > data[j+1].artist) {
                 tmp = data[j];
                 data[j] = data[j+1];
                 data[j+1] = tmp;
-                var  c = arr_audio[j];arr_audio[j] = arr_audio[j+1];arr_audio[j+1] = c;
-                c = album[j];album[j] = album[j+1];album[j+1] = c;
             }
         }
     }
     return data;
-}*/
+}
 
 
 
