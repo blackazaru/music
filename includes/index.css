@@ -30,7 +30,6 @@ body {
     background-size: cover;
     background-position: center;
     z-index: -3;
-
     -webkit-filter: blur(10px);
     -moz-filter: blur(10px);
     -o-filter: blur(10px);
