@@ -125,6 +125,7 @@ function next(audio, index){
     }else{
         i = index;
     }
+    document.getElementById("bgrnd").style.backgroundImage = "url('"+ music[i].cover + "')";
     audio.load(music[i].song);
     audio.play();
 }
