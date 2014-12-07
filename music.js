@@ -381,7 +381,7 @@ var music = [
     "artist": "Rise Against",
     "album": "",
     "song": "http://dl.zaycev.net/86004/822191/rise_against_-_audience_of_one_(zaycev.net).mp3",
-    "cover": "http://3219a2.medialib.glogster.com/media/ca/ca0d7d3687cf28572dad5dd74efbcb…b2e069bbfb446519c997e/riseagainst-albumartwork-appealtoreason-rgbhires.jpg"
+    "cover": "http://0.avatars.yandex.net/get-music-content/d5ae5faa.a.2156794-1/200x200"
   },
   {
     "track": "Broken Mirrors",
@@ -409,7 +409,7 @@ var music = [
     "artist": "Rise Against",
     "album": "",
     "song": "http://dl.zaycev.net/86004/1763939/rise_against_-_re-education_(zaycev.net).mp3",
-    "cover": "http://3219a2.medialib.glogster.com/media/ca/ca0d7d3687cf28572dad5dd74efbcb…b2e069bbfb446519c997e/riseagainst-albumartwork-appealtoreason-rgbhires.jpg"
+    "cover": "http://0.avatars.yandex.net/get-music-content/d5ae5faa.a.2156794-1/200x200"
   },
   {
     "track": "Ready To Fall",
@@ -756,14 +756,14 @@ var music = [
 },
 {  
    "artist":"Sum 41",
-   "song":"http://elisto06d.music.yandex.ru/get-mp3/08e097d4322c659b7415af04461a66f8/50942558b2ad9/13/data-0.4:31335619186:4932126?track-id=3718621&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=1562146",
+   "song":"http://elisto07e.music.yandex.ru/get-mp3/d1e8546aca933883e3a7492c01ff09b7/509a4988331eb/17/data-0.4:4420161586:4435590?track-id=39700&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%2C%22ny2015%22%3A%22no%22%7D&from=web-search-track-track-saved&albumId=3285",
    "cover":"http://2.avatars.yandex.net/get-music-content/9e783f7e.a.3285-1/200x200",
    "album":"Chuck",
    "track":"No Reason"
 },
 {  
    "artist":"Sum 41",
-   "song":"http://elisto06d.music.yandex.ru/get-mp3/08e097d4322c659b7415af04461a66f8/50942558b2ad9/13/data-0.4:31335619186:4932126?track-id=3718621&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default%22%2C%22recommendedArtists%22%3A%22suggest%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22myMusicButton%22%3A%22yes%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22control%22%7D&from=web-artist-similar_artists-artist-main&albumId=1562146",
+   "song":"http://elisto04e.music.yandex.ru/get-mp3/8b71a8c32c46cf25f2aa8f15621220b1/509a49fbdf64e/14/data-0.14:17428226244:3960371?track-id=39698&play=false&experiments=%7B%22similarities%22%3A%22default%22%2C%22genreRadio%22%3A%22matrixnet-default-copy%22%2C%22recommendedArtists%22%3A%22ichwill_similar_artists%22%2C%22recommendedTracks%22%3A%22recommended_tracks_by_artist_from_history%22%2C%22recommendedAlbumsOfFavoriteGenre%22%3A%22recent%22%2C%22recommendedSimilarArtists%22%3A%22default%22%2C%22recommendedArtistsWithArtistsFromHistory%22%3A%22default%22%2C%22adv%22%3A%22a%22%2C%22userFeed%22%3A%22old%22%2C%22loserArtistsWithArtists%22%3A%22off%22%2C%22ny2015%22%3A%22no%22%7D&from=web-search-track-track-main&albumId=3285",
    "cover":"http://2.avatars.yandex.net/get-music-content/9e783f7e.a.3285-1/200x200",
    "album":"Chuck",
    "track":"Open Your Eyes"
