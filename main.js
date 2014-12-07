@@ -31,6 +31,7 @@ function changeButtonNext(){
     document.getElementById("play").setAttribute("next", "true");
     document.getElementById("list").style.display = "block";
     document.getElementById("album-mini").style.display = "block";
+    document.getElementById("line-panel").style.display = "block";
 }
 
 function animationPanel(num){
